@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper to Visual"
+  short_description: "Research slides and posters in a vintage sage ink-wash style"
+  default_prompt: "Use $paper-to-visual to turn this paper into an editable presentation and a matching poster cover using the saved vintage sage style."
